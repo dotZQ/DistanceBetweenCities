@@ -1,3 +1,4 @@
 # DistanceBetweenCities
 
-This program find the distance between two cities form latitude and lontitude of each city.
+This program find the all the cities that in the input radius.
+
